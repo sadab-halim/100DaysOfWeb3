@@ -6,14 +6,15 @@
 - It is known for maintaining and securing and decentralized record of transactions.
 
 ### Difference between a typical database and a blockchain ?
-A blockchain collects information together in groups known as **blocks** that holds set of information. <br/>
-Blocks have certain storage capacities and, when filled, are closed and linked to the previously filled block, forming a chain of data which is known as the **blockchain**. <br/>
+- A blockchain collects information together in groups known as **blocks** that holds set of information. 
 
-All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled. <br/>
+- Blocks have certain storage capacities and, when filled, are closed and linked to the previously filled block, forming a chain of data which is known as the **blockchain**.
 
-A database usually structures its data into tables, whereas a blockchain, like its name implies, structures its data into blocks that are strung together. <br/>
+- All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled. 
 
-As new data comes in, it is entered into a fresh block. Once the block is filled with data, it is chained onto the previous block, which makes the data chained together in chronological order.
+- A database usually structures its data into tables, whereas a blockchain, like its name implies, structures its data into blocks that are strung together. 
+
+- As new data comes in, it is entered into a fresh block. Once the block is filled with data, it is chained onto the previous block, which makes the data chained together in chronological order.
 
 ### Points to Remember
 
@@ -23,7 +24,7 @@ As new data comes in, it is entered into a fresh block. Once the block is filled
 
 - Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and viewable to anyone.
 
-### How Does a Blockchain Work ?
+### How does a blockchain work ?
 A blockchain collects information together in groups, known as blocks, that hold sets of information. <br/>
 Blocks have certain storage capacities and, when filled, are closed and linked to the previously filled block, forming a chain of data known as the blockchain.
 
