@@ -7,7 +7,7 @@ The reason for documenting my journey and sharing my notes is to inspire people 
 
 # Learning Progress
 
-## Blockchain
+### Blockchain
 ✔ Introduction <br/>
 ✔ Security <br/>
 ✔ Decentralized Technology <br/>
